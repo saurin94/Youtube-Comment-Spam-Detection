@@ -1,0 +1,40 @@
+#################################################################
+#                Heuristics
+#################################################################
+
+For all Users:
+1) Frequency of comments, use comment.author to check if same user is commenting a single comment multiple times.
+2) Time between comments (time interval between comments if same)
+3) Relevance of comments with respect to title and tags of video
+4) Basic spam comments "Subscribe to this" , "Buy this/Sell this". Create list of well known spam phrases.
+
+
+
+#################################################################
+#                Spam comment list
+#################################################################
+1) watch?v=JNVeTR9MhAo?
+2) Check out my channel
+3) Please watch my vids at airborn2048
+4) CAT almost BIT ME A FINGER OFF))))) view on my channel ))))
+5) password please !!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+6) watch?v=DGHC-AgB8Us?TV4500Channels.blogspot.com
+7) If you have any immense black ops videos please could you send them to bennyboy536@hotmail.com This would give you publicity and increase your rep. For your videos to be posted on the top 5 amazing kills Thanks PLZ SUBSCRIBE AND COMMENT TO MY CHANNEL
+8) PLZ GIVE ME A CHANCE AND HEAR MA SONGS
+9) CHECK OUT MY VIDS AND COMMENT
+10) CHECK OUT OUR CHANNEL! IT IS SO FUNNY!
+11) PLEASE SUBSCRIBE!
+12) chek out nikkayx26
+13) Make sure to check out my page for the Exclusive Dance
+14) Battle of the Week!!!
+15) Can I get likes for my birthday
+16) Darude Sandstorm
+
+
+#################################################################
+#                TO DO
+#################################################################
+
+1) #1
+2) #2
+3) #4

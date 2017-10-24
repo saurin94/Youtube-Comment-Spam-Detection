@@ -1,0 +1,90 @@
+[run_spam_detection] Running spam detection on : https://www.youtube.com/watch?v=4maAWYbTJ0o
+Using Naive Bayer classifier.
+[TrainingDataProvider] Creating training data set.
+[YoutubeCommentsDataFetcher] Fetching comments for: https://www.youtube.com/watch?v=4maAWYbTJ0o and writing to: /Users/abhishek/NEU/spring-17/FAI/CS5100/project/code/youtube-spam-detector/comments_file/comments_4maAWYbTJ0o.json
+Corpus size: 64334
+Collected 64334 feature sets
+Training corpus: 48250 comments
+Test corpus: 16084 comments
+Correctness on the training set = 70.5430051813%
+Correctness on the test set = 80.3407112659%
+Most Informative Features
+                    http = True             spam : ham    =    808.6 : 1.0
+                    quot = True             spam : ham    =    620.8 : 1.0
+                     amp = True             spam : ham    =    397.9 : 1.0
+                      /a = True             spam : ham    =    356.5 : 1.0
+                   href= = True             spam : ham    =    356.5 : 1.0
+               instagram = True             spam : ham    =    223.2 : 1.0
+                suscribe = True             spam : ham    =    223.2 : 1.0
+                    4000 = True             spam : ham    =    182.6 : 1.0
+                    upto = True             spam : ham    =    182.6 : 1.0
+                columbus = True             spam : ham    =    182.6 : 1.0
+             mississippi = True             spam : ham    =    142.0 : 1.0
+                 whitney = True             spam : ham    =    142.0 : 1.0
+                      gt = True             spam : ham    =    138.3 : 1.0
+                   dante = True             spam : ham    =    133.9 : 1.0
+                    lake = True             spam : ham    =    130.4 : 1.0
+                      39 = True             spam : ham    =    129.8 : 1.0
+                 theater = True             spam : ham    =    113.0 : 1.0
+                playlist = True             spam : ham    =    112.5 : 1.0
+                 comfort = True             spam : ham    =    109.6 : 1.0
+             encouraging = True             spam : ham    =    101.4 : 1.0
+[get_comments] Comments already downloaded for this video. Reading from file.
+saurin shah we'll do it together at the end of this semester and you will record our video !! 👍 	fuzz.ratio(title, text):17
+
+nYc..! 	fuzz.ratio(title, text):7
+
+Insipid Cammy I am being very serious. 	fuzz.ratio(title, text):20
+
+LOL...!!!
+
+thanx pal 	fuzz.ratio(title, text):14
+
+awsum cammy veere 	fuzz.ratio(title, text):17
+
+ashiqi 3 rockstar......cammy....
+:p
+nyc 1 	fuzz.ratio(title, text):19
+
+Subscribed!! That means I am expecting some more "self composed" music. C'mon, give us some :D 	fuzz.ratio(title, text):29
+
++Gaurav bangarh  thanks Pal
+please share if you liked :) 	fuzz.ratio(title, text):28
+
+u need A Stage Show ;) 
+To be A Poplr Singer ;)  	fuzz.ratio(title, text):16
+
+nyc 1 dude!! :) need to work more on ur guitar section!! gud luck 	fuzz.ratio(title, text):34
+
+right now 	fuzz.ratio(title, text):19
+
+osm cam ... keep it up ... 
+	fuzz.ratio(title, text):30
+
+Pallav Gupta I can see a rising star 	fuzz.ratio(title, text):16
+
+Pallav Gupta sure 😝 	fuzz.ratio(title, text):13
+
+BELIEVE Me ur voice is so good....... 	fuzz.ratio(title, text):22
+
+shukriya 	fuzz.ratio(title, text):20
+
+train may gaayakya  :p
+	fuzz.ratio(title, text):32
+
+thanks :)
+	fuzz.ratio(title, text):13
+
+Nice dude its amazing song to hear 	fuzz.ratio(title, text):18
+
+Need some more songs 	fuzz.ratio(title, text):11
+
+reply please 	fuzz.ratio(title, text):12
+
+nice yaar !! 	fuzz.ratio(title, text):25
+
+thanx rishu :)
+	fuzz.ratio(title, text):15
+
+Awesome 	fuzz.ratio(title, text):10
+
